@@ -4,4 +4,4 @@
 
 # Windows
 
-Simply download [/windows/Nukra Wallet.exe](https://github.com/NukraNetwork/nukra-wallet/raw/main/windows/Nukra%20Wallet.exe) and run it.
+Simply download [Nukra Wallet.exe](https://github.com/NukraNetwork/nukra-wallet/raw/main/windows/Nukra%20Wallet.exe) and run it.
