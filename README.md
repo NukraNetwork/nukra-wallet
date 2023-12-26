@@ -2,6 +2,7 @@
 
 - [Windows](#windows)
   - [File explanation](#file-explanation)
+  - [Basic configuration](#basic-configuration)
 
 # Windows
 
@@ -15,3 +16,19 @@ When you run the wallet for the first time it will ask you if you want to change
 - `nukra-cli.exe`: The command line interface for the wallet.
 - `nukrad.exe`: The Nukra daemon, use for run a node without pool mining.
 - `nukra-tx.exe`: The Nukra line interface for transactions.
+
+## Basic configuration
+
+When you open the wallet, in the top tabs, click on `Settings` and then on `Options...`.
+
+In the window that has opened, click on `Open configuration file` and paste the following:
+
+```conf
+rpcuser=rpc_nukra
+rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2
+rpcbind=127.0.0.1
+rpcallowip=127.0.0.1
+listen=1
+server=1
+addnode=nodeA.nukra.io
+```
