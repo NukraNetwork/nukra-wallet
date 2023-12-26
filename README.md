@@ -4,4 +4,4 @@
 
 # Windows
 
-Simply download [Nukra Wallet.exe](https://github.com/NukraNetwork/nukra-wallet/raw/main/windows/Nukra%20Wallet.exe) and run it.
+Simply download this repository and run the `Nukra Wallet.exe` file. If you get a warning from Windows Defender, click on `More info` and then `Run anyway`.
