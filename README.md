@@ -33,4 +33,5 @@ server=1
 daemon=1
 addnode=nodeA.nukra.io
 addnode=nodeB.nukra.io
+addnode=nodeC.nukra.io
 ```
