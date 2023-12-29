@@ -31,6 +31,7 @@ rpcallowip=127.0.0.1
 listen=1
 server=1
 daemon=1
+maxtxfee=1.0
 addnode=node1.nukra.io
 addnode=node2.nukra.io
 addnode=node3.nukra.io
