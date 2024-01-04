@@ -25,7 +25,7 @@ In the window that has opened, click on `Open configuration file` and paste the 
 
 ```conf
 rpcuser=rpc_nukra
-rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2
+rpcpassword=NSZHXR7OEVd7UEUrFLGIXtE0KEnerp2R
 rpcbind=127.0.0.1
 rpcallowip=127.0.0.1
 listen=1
