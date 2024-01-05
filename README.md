@@ -30,7 +30,6 @@ rpcbind=127.0.0.1
 rpcallowip=127.0.0.1
 listen=1
 server=1
-daemon=1
 maxtxfee=1.0
 addnode=node1.nukra.io
 ```
