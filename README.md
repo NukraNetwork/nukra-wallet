@@ -14,7 +14,6 @@ When you run the wallet for the first time it will ask you if you want to change
 
 - `Nukra Wallet.exe`: The executable wallet file.
 - `nukra-cli.exe`: The command line interface for the wallet.
-- `nukrad.exe`: The Nukra daemon, use for run a node without pool mining.
 - `nukra-tx.exe`: The Nukra line interface for transactions.
 
 ## Basic configuration
